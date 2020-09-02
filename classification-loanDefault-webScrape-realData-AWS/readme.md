@@ -4,8 +4,9 @@
 -  **Reduced effective loan default rate from 20% to 6%.** 
 -  **Scraped 2.6 million observations from lendingclub.com, each has 150 features.**
 -  **Trained models remotely on AWS EC2 instances.**
--  **Packaged python script to be executed directly in shell.**
--  **Packages used: Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Xgboost, Pickle, Datetime, Selenium**
+-  **Packaged code into a custom model class, deployed it as an executable script**
+
+Packages used: **Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Xgboost, Pickle, Datetime, Selenium**
 
 <p>&nbsp;</p>
 
