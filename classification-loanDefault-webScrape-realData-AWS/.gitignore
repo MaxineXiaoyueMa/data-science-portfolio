@@ -1,0 +1,13 @@
+#osx
+.DS_Store
+
+#jupyter notebooks
+.ipynb_checkpoints
+
+#environment
+.venv
+
+#specific files
+data
+xgboost
+dev/*.pkl
