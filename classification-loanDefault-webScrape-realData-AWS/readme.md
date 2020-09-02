@@ -1,11 +1,12 @@
-# Project - Predicting Loan Default Probability
+# EndToEnd - Loan Default Prediction
 
--  **Built a classification model to predict loan default probability, reduced effective loan default rate from 20% to 6%, a decrease of 75%.** 
--  **Raw data is scraped from lendingclub.com and has 2.6 million observations x 150 features.**
--  **Models are trained remotely on AWS EC2 instances.**
--  **Final deliverable is a python script that can be executed both directly in shell and in jupyter notebook.**
+**Experienced project full lifecycle: initial idea, data collection, design, data cleaning, develop, troubleshoot, and final delivery:**
+-  **Built classification models to predict loan default probability, reduced effective loan default rate from 20% to 6%.** 
+-  **Scraped 2.6 million observations from lendingclub.com, each has 150 features.**
+-  **Trained models remotely on AWS EC2 instances.**
+-  **Created custom model class in python script to be executed directly in shell.**
 
-*Project notebooks rendered in nbviewer for easier nativagation: https://bit.ly/max-loanDefault-nbv*
+*Jupyter notebooks rendered in nbviewer [here](https://nbviewer.jupyter.org/github/MaxineXiaoyueMa/data-science-portfolio/tree/master/classification-loanDefault-webScrape-realData-AWS/dev/).*
 
 <p>&nbsp;</p>
 
