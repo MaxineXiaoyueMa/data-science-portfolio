@@ -26,8 +26,8 @@
 <a id = 'over'></a>
 ## 0. Overview
 - Machine learning task: **Supervised - Classification**
-- **Goal**: Identify loans with high default probability while keeping as many loans as possible to effectively reduce portfolio default rate.
-- **Deliverables**: Trained model, python script for prediction, jupyter notebook for prediction
+- Goal: **Identify loans with high default probability while keeping as many loans as possible to effectively reduce portfolio default rate.**
+- Deliverables: **Trained model, python script for prediction, jupyter notebook for prediction**
 - Candidate models: **Logistic Regression, SVM(Support Vector Machine), Naive Bayes, Random Forest, Gradient Boosted Trees(Xgboost)**
 - Machine learning techniques: **Cross Validation, Grid Search, Preprocessing-Sandardization, Pipeline**
 - Hardware: local and **AWS EC2**
