@@ -8,7 +8,7 @@ Rendered in nbviewer: https://bit.ly/max-ds-projects.
 ### Project
 
 **Capstone**
-[classification-loanDefault-webScrape-AWS(classification-loanDefault-webScrape-realData-AWS) |
+[classification-loanDefault-webScrape-AWS(classification-loanDefault-webScrape-realData-AWS)] |
 
 **By category**
 
@@ -18,15 +18,15 @@ Rendered in nbviewer: https://bit.ly/max-ds-projects.
 
 | **Classification** | |
 |:--- | --- |
-|[classification-loanDefault-prediction(classification-loanDefault-prediction) | [classification-employee-retention(classification-employeeRetention) |
+|[classification-loanDefault-prediction(classification-loanDefault-prediction)]| [classification-employee-retention(classification-employeeRetention)] |
 
 |**Clustering**|
 |:--- |
-|[clustering-customer-segmentation(clustering-segmentation-retailCustomer) |
+|[clustering-customer-segmentation(clustering-segmentation-retailCustomer)] |
 
 |**Recommendation System**|
 |:--- |
-|[recsys-books(recommender-system-book) |
+|[recsys-books(recommender-system-book)] |
 
 
 
