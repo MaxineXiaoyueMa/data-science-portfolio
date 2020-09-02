@@ -1,10 +1,11 @@
 # EndToEnd - Loan Default Prediction
 
-Worked through project full lifecycle: **idea initiation, project scoping, data collection, project design, data cleaning, visualization, development, troubleshooting, and final delivery.**
 -  **Reduced effective loan default rate from 20% to 6%.** 
 -  **Scraped 2.6 million observations from lendingclub.com, each has 150 features.**
 -  **Trained models remotely on AWS EC2 instances.**
 -  **Packaged code into a custom model class, deployed it as an executable script**
+
+Worked through project full lifecycle: **idea initiation, project scoping, data collection, project design, data cleaning, visualization, development, troubleshooting, and final delivery.**
 
 Packages used: **Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Xgboost, Pickle, Datetime, Selenium**
 
