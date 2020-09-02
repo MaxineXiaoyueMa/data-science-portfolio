@@ -1,12 +1,11 @@
 # EndToEnd - Loan Default Prediction
 
-**Experienced project full lifecycle: initial idea, data collection, design, data cleaning, develop, troubleshoot, and final delivery:**
+**Worked through project full lifecycle: idea initiation, project scoping, data collection, project design, data cleaning, visualization, development, troubleshooting, and final delivery:**
 -  **Built classification models to predict loan default probability, reduced effective loan default rate from 20% to 6%.** 
 -  **Scraped 2.6 million observations from lendingclub.com, each has 150 features.**
 -  **Trained models remotely on AWS EC2 instances.**
 -  **Created custom model class in python script to be executed directly in shell.**
-
-*Jupyter notebooks rendered in nbviewer [here](https://nbviewer.jupyter.org/github/MaxineXiaoyueMa/data-science-portfolio/tree/master/classification-loanDefault-webScrape-realData-AWS/dev/).*
+-  **Packages used: Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Xgboost, Pickle, Datetime, Selenium**
 
 <p>&nbsp;</p>
 
@@ -187,5 +186,7 @@ There is so much we could do! For the time being, however, this is enough to hel
 
 
 **End of readme.md**
+
+*Jupyter notebooks rendered in nbviewer [here](https://nbviewer.jupyter.org/github/MaxineXiaoyueMa/data-science-portfolio/tree/master/classification-loanDefault-webScrape-realData-AWS/dev/).*
 
 **[back to top](#toc)**
