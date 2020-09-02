@@ -1,0 +1,14 @@
+# .gitignore file
+
+#osx
+.DS_Store
+
+#jupyter notebooks
+.ipynb_checkpoints
+
+#environment
+
+#specific files
+data
+xgboost
+dev/*.pkl
