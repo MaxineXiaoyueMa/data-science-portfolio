@@ -1,9 +1,10 @@
 # unsupervised-clustering-segmentation-customers
-**Segmented customers into three groups, using KMeans and PCA, to help an online retailer understand its customers' differed bahaviors and deliever more customized service.**
+- **Rolled up transaction level data to cutomer level, created product level data with PCA and thresholds.**
+- **Segmented customers into alternative groupings with KMeans, compared alternatives using silhouette score and inertia.**
+- **Analyzed feature patterns across segments, built customer profiles.**
 
-*project rendered in nbviewer for better navigation: https://bit.ly/max-customerSegmentation-nbv*
+Pakages used: **Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn**
 
-*Disclaimer: the project scenario and data is from EliteDataScience's Machine Learning Master Class. Analysis is based on the curriculum with expansions of my own.*
 
 ## Project Objective
 A UK based **online gift retailer** would like to segment its international customers in order to understand them better, provide more tailored services, and develop targeted marketing strategies. Currently, the segmentation is based on country, which is insufficient because:
@@ -80,5 +81,9 @@ The project is structured in the following way:
     - p3-data wrangling - item level: **PCA**
     - p4-Model Delivery - make segments: **KMeans**
 - **delieverables**: segment file for our client
+
+*project rendered in nbviewer [here](https://nbviewer.jupyter.org/github/MaxineXiaoyueMa/data-science-portfolio/tree/master/clustering-segmentation-retailCustomer/dev/)*
+
+*Disclaimer: the project scenario and data is from EliteDataScience's Machine Learning Master Class. Analysis is based on the curriculum with expansions of my own.*
 
 **Thank you for stopping by, feel free to reach out with anything you would like to share!**
